@@ -15,7 +15,7 @@ const Counter = () => {
   }
 
   const incrementHandler = () =>{
-    dispatch(counterActions.INCx());
+    dispatch(counterActions.INCx(5));
     //mutateValue.current.value;
   }
 
