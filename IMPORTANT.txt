@@ -1,0 +1,3 @@
+to make redux app work we need to installl react-redux:
+
+npm install redux redux react-redux
